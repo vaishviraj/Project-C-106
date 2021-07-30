@@ -1,0 +1,1 @@
+var link="https://teachablemachine.withgoogle.com/models/aN__m09z-/";
